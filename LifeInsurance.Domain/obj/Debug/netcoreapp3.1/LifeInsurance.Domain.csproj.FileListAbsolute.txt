@@ -1,0 +1,8 @@
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.deps.json
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.pdb
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\obj\Debug\netcoreapp3.1\LifeInsurance.Domain.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\obj\Debug\netcoreapp3.1\LifeInsurance.Domain.AssemblyInfo.cs
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\obj\Debug\netcoreapp3.1\LifeInsurance.Domain.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\obj\Debug\netcoreapp3.1\LifeInsurance.Domain.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Domain\obj\Debug\netcoreapp3.1\LifeInsurance.Domain.pdb

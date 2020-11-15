@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LifeInsurance.Interface/1.0.0": {
+        "dependencies": {
+          "LifeInsurance.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LifeInsurance.Interface.dll": {}
+        }
+      },
+      "LifeInsurance.Domain/1.0.0": {
+        "runtime": {
+          "LifeInsurance.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LifeInsurance.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LifeInsurance.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

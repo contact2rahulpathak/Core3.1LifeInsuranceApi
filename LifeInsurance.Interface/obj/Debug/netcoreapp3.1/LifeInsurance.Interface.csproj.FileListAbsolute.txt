@@ -1,0 +1,12 @@
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\bin\Debug\netcoreapp3.1\LifeInsurance.Interface.deps.json
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\bin\Debug\netcoreapp3.1\LifeInsurance.Interface.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\bin\Debug\netcoreapp3.1\LifeInsurance.Interface.pdb
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.pdb
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.csprojAssemblyReference.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.AssemblyInfo.cs
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.csproj.CopyComplete
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Interface\obj\Debug\netcoreapp3.1\LifeInsurance.Interface.pdb

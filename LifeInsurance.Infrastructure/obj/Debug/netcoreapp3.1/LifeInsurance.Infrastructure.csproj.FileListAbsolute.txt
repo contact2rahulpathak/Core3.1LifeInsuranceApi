@@ -1,0 +1,12 @@
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\bin\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.deps.json
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\bin\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\bin\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.pdb
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\bin\Debug\netcoreapp3.1\LifeInsurance.Domain.pdb
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.csprojAssemblyReference.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.AssemblyInfoInputs.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.AssemblyInfo.cs
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.csproj.CopyComplete
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.dll
+F:\Pracjuly2020\Insurance\Life-Insurance-Contract-master\Life-Insurance-Contract-master\LifeInsurance.Infrastructure\obj\Debug\netcoreapp3.1\LifeInsurance.Infrastructure.pdb

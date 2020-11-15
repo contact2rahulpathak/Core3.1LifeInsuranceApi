@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Service\\LifeInsurance.Service.csproj": {}
+  },
+  "projects": {
+    "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj",
+        "projectName": "LifeInsurance.Domain",
+        "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Infrastructure\\LifeInsurance.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Infrastructure\\LifeInsurance.Infrastructure.csproj",
+        "projectName": "LifeInsurance.Infrastructure",
+        "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Infrastructure\\LifeInsurance.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj": {
+                "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Interface\\LifeInsurance.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Interface\\LifeInsurance.Interface.csproj",
+        "projectName": "LifeInsurance.Interface",
+        "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Interface\\LifeInsurance.Interface.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj": {
+                "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Domain\\LifeInsurance.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Service\\LifeInsurance.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Service\\LifeInsurance.Service.csproj",
+        "projectName": "LifeInsurance.Service",
+        "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Service\\LifeInsurance.Service.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Infrastructure\\LifeInsurance.Infrastructure.csproj": {
+                "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Infrastructure\\LifeInsurance.Infrastructure.csproj"
+              },
+              "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Interface\\LifeInsurance.Interface.csproj": {
+                "projectPath": "F:\\Pracjuly2020\\Insurance\\Life-Insurance-Contract-master\\Life-Insurance-Contract-master\\LifeInsurance.Interface\\LifeInsurance.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

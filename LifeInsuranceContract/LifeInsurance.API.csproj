@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>7f4b55c2-eda3-4568-9cd2-88ffa803a56c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.11.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LifeInsurance.Domain\LifeInsurance.Domain.csproj" />
+    <ProjectReference Include="..\LifeInsurance.Infrastructure\LifeInsurance.Infrastructure.csproj" />
+    <ProjectReference Include="..\LifeInsurance.Interface\LifeInsurance.Interface.csproj" />
+    <ProjectReference Include="..\LifeInsurance.Service\LifeInsurance.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
